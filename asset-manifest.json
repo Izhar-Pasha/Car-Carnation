@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Car-Carnation/static/css/main.cbb7b58a.css",
+    "main.js": "/Car-Carnation/static/js/main.d89bd1a3.js",
+    "static/js/787.6dadba54.chunk.js": "/Car-Carnation/static/js/787.6dadba54.chunk.js",
+    "static/media/Video.mp4": "/Car-Carnation/static/media/Video.825cc9f3ccc79afc76ea.mp4",
+    "static/media/Image3.jpg": "/Car-Carnation/static/media/Image3.5ca07e2e3d8cc41c752f.jpg",
+    "static/media/Image2.jpg": "/Car-Carnation/static/media/Image2.4da1e36936916ea29af5.jpg",
+    "static/media/Image1.jpg": "/Car-Carnation/static/media/Image1.66392ea2ae605967b721.jpg",
+    "static/media/play_icon.png": "/Car-Carnation/static/media/play_icon.ece6d6077991355cb396.png",
+    "static/media/arrow_btn.png": "/Car-Carnation/static/media/arrow_btn.37a8aeef8768ecd303d0.png",
+    "static/media/pause_icon.png": "/Car-Carnation/static/media/pause_icon.05120b8d811e0e5afd80.png",
+    "index.html": "/Car-Carnation/index.html",
+    "main.cbb7b58a.css.map": "/Car-Carnation/static/css/main.cbb7b58a.css.map",
+    "main.d89bd1a3.js.map": "/Car-Carnation/static/js/main.d89bd1a3.js.map",
+    "787.6dadba54.chunk.js.map": "/Car-Carnation/static/js/787.6dadba54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb7b58a.css",
+    "static/js/main.d89bd1a3.js"
+  ]
+}
